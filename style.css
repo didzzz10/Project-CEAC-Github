@@ -1,0 +1,109 @@
+
+
+html,
+body{
+ 
+  height: 100%;
+    font-size: 1.10rem;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav{
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size:x-large;
+background-color:rgb(77, 173, 118);
+border-radius:14px;
+margin-bottom: 90px;
+}
+
+.nav-link{
+
+  color:  rgba(0, 1, 1, 0.316);
+}
+
+.gradient{
+
+background:rgb(77, 173, 118);
+background: linear-gradient(150deg, rgba(5, 140, 147, 0.714) 0%, rgba(209, 231, 9, 0.747) 0%, rgba(55, 170, 9, 0.774) 100%);
+
+}
+
+.page-header{
+
+margin-top: 4rem;
+font-size: 1.25rem;
+color: rgba(0, 1, 1, 0.316);
+
+
+}
+
+.feature{
+
+    color: rgba(0, 1, 1, 0.316);
+
+
+
+}
+
+
+.feature ul{
+
+padding-left: 2rem;
+list-style-type: none;
+
+}
+
+.feature ul li{
+
+    padding-left: 2rem;
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+
+}
+
+.icon{
+
+  color: rgba(200, 8, 62, 0.61);
+  height: 5rem;
+  width: 5rem;
+  font-size: 1.75rem;
+  border-radius: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom:20px;
+}
+
+  .services{
+
+ color:  rgba(0, 1, 1, 0.316);
+ 
+  }
+
+.carousel{
+color:rgba(77, 142, 44, 0.89);
+font-style: italic;
+text-align: center;
+margin-bottom: 90px ;
+width: auto;
+
+  }
+
+  .Contacto{
+
+margin-top: 50px;
+margin-bottom: 80px;
+color:  rgba(0, 1, 1, 0.316);
+  }
+
+
+  .footer{
+    text-align:center;
+    padding: 10px;px;
+    background-color:rgb(77, 173, 118);
+    margin:0% auto;
+    border-radius:14px;
+    }
